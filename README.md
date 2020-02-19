@@ -6,3 +6,6 @@ Skips ads, TV shows intros and wait time until next episode on Amazon Prime Vide
 https://www.primevideo.com/
 
 https://southpark.cc.com/
+
+# Auto Skipps Primevideo Ads
+![alt tag](https://i.snipboard.io/Ci4mDI.jpg)
