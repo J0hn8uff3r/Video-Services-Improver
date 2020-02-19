@@ -3,7 +3,7 @@ Skips ads, TV shows intros and wait time until next episode on Amazon Prime Vide
 
 # Currently working on this websites
 
-https://www.primevideo.com/
+https://www.primevideo.com/ (MutationObserver implementation instead of setInterval pending)
 
 https://southpark.cc.com/
 
